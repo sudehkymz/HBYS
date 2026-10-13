@@ -1,0 +1,4 @@
+<?php
+
+// Inventory Module Routes
+
